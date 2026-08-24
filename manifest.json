@@ -1,6 +1,6 @@
 {
-  "name": "Registro Despacho MCASSAB",
-  "short_name": "MCASSAB",
+  "name": "Control de Recepción y Despacho",
+  "short_name": "RecDesp",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
   "icons": [

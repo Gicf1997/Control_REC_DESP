@@ -1,6 +1,6 @@
-const CACHE_NAME = "v1_cache_panel_adm",
+const CACHE_NAME = "v1_cache_RecDesp",
   urlsToCache = [
-    "https://script.google.com/macros/s/AKfycbxpR90QKLvS72vWX7lksuXfHjUNyuZmQLp_M2LoMV0Bj7IaMEFq6uCKmheFvkMUhT9A/exec",
+    "https://script.google.com/macros/s/AKfycbzHBbs_0jt0B4LdG72oj9i2Xrbdq6ZRjlkC9AYntuMJ3Ggz9oByufIvof5KO02h-q5I/exec",
     "./manifest.json",
   ];
 
