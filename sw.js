@@ -1,6 +1,6 @@
 const CACHE_NAME = "v1_cache_RecDesp",
   urlsToCache = [
-    "https://script.google.com/macros/s/AKfycbzHBbs_0jt0B4LdG72oj9i2Xrbdq6ZRjlkC9AYntuMJ3Ggz9oByufIvof5KO02h-q5I/exec",
+    "https://script.google.com/macros/s/AKfycbyxrKZifyeTNnDyJsMZw5oP26m0Zu2ZYm0d9sH6od0HMByOLvd85D441ep7STl3tB57/exec",
     "./manifest.json",
   ];
 
